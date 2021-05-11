@@ -14,7 +14,7 @@
     "channel" : "SMS",
     "documentName" : "Laboris Ant Design nisi ut aliquip",
     "group" : "Fintech",
-    "status" : "Received",
+    "status" : "Printed",
     "dataModified" : "20210202",
     "type" : "Non-prior",
     "address" : "/localhost/C$"
@@ -71,7 +71,7 @@
     "channel" : "SMS",
     "documentName" : "Laboris Ant Design nisi ut aliquip",
     "group" : "Fintech",
-    "status" : "Received",
+    "status" : "Folded",
     "dataModified" : "20210202",
     "type" : "Non-prior",
     "address" : "/localhost/C$"
@@ -90,7 +90,7 @@
     "channel" : "PDF",
     "documentName" : "Ant Design System Guide",
     "group" : "Receipts",
-    "status" : "Received",
+    "status" : "Folded",
     "dataModified" : "20210202",
     "type" : "Prior",
     "address" : "/localhost"
